@@ -42,11 +42,13 @@
 *.idb
 *.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+
+# Code Composer Studio files
+# https://downloads.ti.com/ccs/esd/documents/users_guide_ccs_20.0.0/ccs_project-management2.html#files-to-check-in
+Debug
+Release
+.xdchelp
+.config/
+.launches/
+targetConfigs/
+
