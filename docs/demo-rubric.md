@@ -83,7 +83,7 @@
     <td>Correct</td>
     <td>0.5</td>
     <td></td>
-    <td>0.5</td>
+    <td></td>
     <td></td>
   </tr>
 </tbody></table>
