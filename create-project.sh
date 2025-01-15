@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CCS_INSTALL_DIR=/opt/ti/ccs2001/ccs
+CCS_INSTALL_DIR=~/.local/opt/ti/ccs2001/ccs
 
 ECLIPSE_DIR="${CCS_INSTALL_DIR}/eclipse"
 
