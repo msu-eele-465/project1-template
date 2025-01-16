@@ -96,7 +96,7 @@ Please put your documentation (flowcharts, screenshots) and presentation in the 
 > [!TIP]
 > Remember to use `--set-upstream origin interrupt` when pushing your new branch for the first time.
 > ```
-> git push --set-upstream origin delay-loop 
+> git push --set-upstream origin interrupt
 > ```
 11. When you’re done, **[create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)** from `interrupt` into `main`.
 12. **Merge the pull request online**. 
