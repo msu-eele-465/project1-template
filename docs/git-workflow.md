@@ -70,11 +70,11 @@ Please put your documentation (flowcharts, screenshots) and presentation in the 
     git push 
     repeat
     ```
-    > [!NOTE]
-    > *when pushing your new branch for the first time*, you need to tell git to create that branch on the remote repository:
-    > ```
-    > git push --set-upstream origin delay-loop 
-    > ```
+> [!NOTE]
+> *when pushing your new branch for the first time*, you need to tell git to create that branch on the remote repository:
+> ```
+> git push --set-upstream origin delay-loop 
+> ```
 6. When you’re done, **[create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)** from `delay-loop` into `main`.
 7. **Merge the pull request online**. We're using pull requests so it is easy for the instructor and your partner to view the changes and do code reviews; the instructor will not be approving your pull requests.
 8. **Pull the changes from the merge request into `main`**:
@@ -93,11 +93,11 @@ Please put your documentation (flowcharts, screenshots) and presentation in the 
     git push 
     repeat
     ```
-    > [!TIP]
-    > Remember to use `--set-upstream origin interrupt` when pushing your new branch for the first time.
-    > ```
-    > git push --set-upstream origin delay-loop 
-    > ```
+> [!TIP]
+> Remember to use `--set-upstream origin interrupt` when pushing your new branch for the first time.
+> ```
+> git push --set-upstream origin delay-loop 
+> ```
 11. When you’re done, **[create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)** from `interrupt` into `main`.
 12. **Merge the pull request online**. 
 13. **Pull the changes from the merge request into `main`**:
