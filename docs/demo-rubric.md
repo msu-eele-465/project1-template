@@ -87,3 +87,19 @@
     <td></td>
   </tr>
 </tbody></table>
+
+---
+
+### Grading markdown template
+
+This is the grading template for the instructor/TA to copy/paste when grading the demo. Students can ignore this.
+
+| Criteria | Score |
+|----------|-------|
+| Demo introduction |   |
+| Delay loop flowchart |  |
+| Delay loop results |  |
+| Interrupt flowchart |  |
+| Interrupt results |  |
+| When would you choose to use one method over the other? |  |
+| **Total** |  |
